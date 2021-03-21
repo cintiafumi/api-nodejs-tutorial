@@ -14,6 +14,6 @@ const init = async () => {
   await Car.sync();
 };
 
-// init();
+init();
 
 export default Car;
