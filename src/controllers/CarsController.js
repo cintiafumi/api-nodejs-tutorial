@@ -1,4 +1,4 @@
-import Car from '../database/models/Cars.js';
+import Car from '../database/models/Car.js';
 
 const Cars = {
   all(req, res, next) {
